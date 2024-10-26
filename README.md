@@ -2,6 +2,7 @@
 
 Welcome to **1311 Reverse Shell**—the ultimate network testing tool that lets you dive deep into the underbelly of remote connections. This isn't just another app; it's your key to gaining control over connected devices and manipulating files at will. Built with an intuitive Tkinter GUI, it’s perfect for anyone looking to flex their hacking skills.
 
+also 1311 is my bdate so dont mind the naming scheme :)
 
 https://github.com/user-attachments/assets/81f56e29-4163-4a56-9f94-2ec4f93ba304
 
